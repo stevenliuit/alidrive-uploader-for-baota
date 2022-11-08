@@ -6,7 +6,7 @@ hash tar uname grep curl head
 install_path=/www/server/panel/plugin/alidrive
 panel_path=/www/server/panel
 
-PROXY="https://proxy.aoaostar.workers.dev/"
+PROXY="https://gh.api.99988866.xyz/"
 OS="$(uname)"
 case $OS in
 Linux)
